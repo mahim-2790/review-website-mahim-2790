@@ -1,0 +1,19 @@
+.icon-color{
+    color: gold;
+}
+.card-size{
+    width: 26rem;
+    height:40rem
+}
+
+.img-height{
+    height: 50%;
+}
+
+.enrl-btn{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: #D4D442;
+    color: white;
+}

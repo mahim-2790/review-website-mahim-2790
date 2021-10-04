@@ -1,14 +1,13 @@
 import { faClock, faUser } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { Card, Col } from 'react-bootstrap';
+import React from 'react';
+import { Card, Col, ProgressBar } from 'react-bootstrap';
 import Rating from 'react-rating';
-import './Course.css';
 
-const Course = (props) => {
+const EnrolledCourses = (props) => {
     const avatar = <FontAwesomeIcon icon={faUser}></FontAwesomeIcon>
     const clock = <FontAwesomeIcon icon={faClock}></FontAwesomeIcon>
-
-    const { name, description, image, rating, price, duration, author, student } = props.course;
+    const { name, description, image, rating, price, duration, author, student, completed } = props.course;
     return (
         <div>
             <Col className="d-flex justify-content-center">
@@ -27,8 +26,9 @@ const Course = (props) => {
                                 readonly
                             >
                             </Rating><br />
+                            <ProgressBar now={completed} className="my-3"></ProgressBar>
                         </Card.Text>
-                        <button className="enrl-btn">Enroll</button>
+                        <button className="enrl-btn">Continue Class</button>
                     </Card.Body>
                     <Card.Footer>
                         <div className="d-flex justify-content-between">
@@ -42,4 +42,4 @@ const Course = (props) => {
     );
 };
 
-export default Course;
+export default EnrolledCourses;
