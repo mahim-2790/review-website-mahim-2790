@@ -1,7 +1,11 @@
 .icon-color{
     color: gold;
 }
-.container{
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
+.card-size{
+    width: 24rem;
+    height:30rem
+}
+
+.img-height{
+    height: 60%;
 }
