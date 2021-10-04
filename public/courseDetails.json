@@ -1,0 +1,74 @@
+ [
+  {
+    "id": "1",
+    "name": "Basic Guitar Course",
+    "description": "Learn Playing Guitar",
+    "price": "5000",
+    "duration": "3",
+    "rating": "4.7",
+    "image": "https://media.istockphoto.com/photos/hispanic-and-caucasian-men-playing-acoustic-guitars-teacher-and-picture-id1130638079?k=20&m=1130638079&s=612x612&w=0&h=n8-eamA3xCSiNqyOt7UQbHOHc4mPf2MKW8rWNQRl3Cw="
+  },
+  {
+    "id": "2",
+    "name": "Electric Guitar Course",
+    "description": "Learn playing Electric guitar",
+    "price": "15000",
+    "duration": "6",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-1590773301066-21fd6b85c257?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZWxlY3RyaWMlMjBndWl0YXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "3",
+    "name": "Keyboard Course",
+    "description": "Learn how to play keyboard.",
+    "price": "8000",
+    "duration": "3",
+    "rating": "4.7",
+    "image": "https://musicadvisor.com/wp-content/uploads/2017/05/learn-to-play-piano.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Piano Course",
+    "description": "Learn how to play Piano.",
+    "price": "20000",
+    "duration": "3",
+    "rating": "4.6",
+    "image": "https://helios-i.mashable.com/imagery/articles/00W2KAkBMmh1rSV3G9fzsQ6/hero-image.fill.size_1248x702.v1623370435.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Drums Course",
+    "description": "Learn how to play Drums.",
+    "price": "10000",
+    "duration": "4",
+    "rating": "4.8",
+    "image": "https://www.mediumbuzz.com/wp-content/uploads/2021/07/how-to-play-drums-for-beginners.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Violin Course",
+    "description": "Learn how to play Violin.",
+    "price": "8000",
+    "duration": "3",
+    "rating": "4.6",
+    "image": "https://www.edarabia.com/wp-content/uploads/2019/02/8-easy-steps-learn-how-play-violin.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Saxophone Course",
+    "description": "Learn how to play Saxophone.",
+    "price": "9000",
+    "duration": "3",
+    "rating": "4.5",
+    "image": "https://www.cmuse.org/wp-content/uploads/2019/02/reasons-learn-to-play-saxophone.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Flute Course",
+    "description": "Learn how to play Flute.",
+    "price": "4000",
+    "duration": "3",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-1514213949578-58fe7b8ff146?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Zmx1dGV8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+  }
+]
