@@ -7,6 +7,6 @@ This application is for new music learner. Students can find their desired cours
 * They can view the completion of their course.
 * They can buy more than one course.
 
-[Musicians Hub](https://modest-nightingale-848070.netlify.app/).
+[Musicians Hub](https://musicians-hub-nightingale-848070.netlify.app/).
 
 
